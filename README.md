@@ -1,3 +1,6 @@
+Repository of my work in OS202 which is a course on Parallel and distribuded systems. 
+
+--------------------------------------------------------------------------------------
 TD2
 
 Exercise 1.3.1
